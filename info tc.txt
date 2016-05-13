@@ -1,0 +1,57 @@
+TEST CASE: TC.Login.Mail (nazwa)
+
+
+Scenario:
+
+Kroki(steps):
+	1. wejdz na www i wciœnij F5
+	2. verification point (VP) - strona sie za³adowa³a
+ 	3. kliknij zak³adke Poczta (+ np gdzie jest przycisk [zalezy od wymagan] )
+	4. VP
+
+Expected results: strona siê za³adowa³a i odœwierzy³a
+Actual results: Np. strona siê nie otworzy³a
+
+
+Preconditions:
+- strona www.wp.pl musi byc dostepna
+- odpowiednia przegl¹darka (rodzaj i versja)
+- odpowiedni system operacyjny (np. Win 7)
+- itp.
+
+Postconditions: (przygotowanie stanowiska dla kolejnej osoby do testu)
+- wylogowanie siê z poczty
+- usuniecie plikow i folderow tworzonych podczas testu
+- wyczyszczenie ekranu
+
+
+Dane:
+- login
+- password
+
+Dokumentacja: (Wymagania test case;u ktore dostajemy od klienta)
+- ma zostac przetestowane to i to
+
+
+Komentarz: (opis test case)
+- np. test case sprawdza to i to przy tym i tym i tkaich warunkach
+
+
+
+Wymagania dla testowania kontaktu 
+
+	funkcjonalne: (uzytkownik powinien byc w stanie po kliknieciu na zakladke kontakt zobaczyc jej tresc i pola)
+			-- jako uzytkownik powinienem miec mozliwosc zobaczenia tresci zakladki kontakt po kliknieciu na nia
+	
+	
+	niefunkcjonalne: jako uzytkownik powinienem miec mozliwosc zobaczenia tresci zakladki kontakt po kliknieciu na nia w ciagu 5 sekund
+
+Requirements:
+	-spójne (jedno wymaganie jeden tc)
+	-kompletne()
+	-zgodnoœæ
+	-aktualnoœæ
+	-wykonywalnoœæ
+	-jednoznacznosc
+	-weryfikowalnosc
+	-

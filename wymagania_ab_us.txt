@@ -1,0 +1,14 @@
+Name : About_Us_Subsites_Test_1_0
+Version: 1.0
+Date 06.05.2016 10:21
+
+
+u¿ytkownik powinien byæ w stanie po najechaniu kursorem na przycisk zak³adki /About Us/ zobaczyc rozwijan¹ listê,
+ oraz klikniêciem wybraæ element listy. wybranie elementu powinno przekierowywaæ do odpowiedniej sekcji strony przypisanej do przycisku
+
+test przeprowadzony powinien zostaæ na dowolnym urz¹deniu z systemem operacyjnym Windows 10 w wersji 10.1
+ w przegl¹darce Mozilla Firefox w wersjach od 30.0 do 45.0
+
+  
+
+

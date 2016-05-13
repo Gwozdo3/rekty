@@ -1,0 +1,3 @@
+rodzaje wymagañ (funkcjonalne[jak dzia³aj¹ buttony] i niefunkcjonalne[jak szybko laduje sie strona])
+co to istqb i 2 pierwsze rozdzia³yt tego dokumentu
+co to scrum poker
